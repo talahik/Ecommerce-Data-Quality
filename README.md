@@ -13,9 +13,9 @@ The goal of this project is to:
 
 ## Project Structure
 
-- **data/**: "Ventes_en_ligne.csv" Contains the original dataset and cleaned versions at different stages.
-- **notebooks/**: Jupyter notebooks showcasing the data cleaning steps, with "checkpoints" for dataset recovery.
-- **scripts/**: Python scripts to automate the data cleaning process.
+- **data**: "Ventes_en_ligne.csv" Contains the original dataset and cleaned versions at different stages.
+- **notebooks**: Jupyter notebooks showcasing the data cleaning steps, with "checkpoints" for dataset recovery.
+- **scripts**: Python scripts to automate the data cleaning process.
 - **README.md**: Documentation of the project.
 
 ## Technologies Used
@@ -30,4 +30,4 @@ The goal of this project is to:
 1. Clone this repository:
    ```bash
    git clone https://github.com/talahik/Ecommerce-Data-Quality.git
-   git clone https://github.com/username/data-cleaning-project.git
+   
