@@ -1,8 +1,8 @@
 # Ecommerce-Data-Quality
-A data cleaning project focused on enhancing the quality of an unclean e-commerce dataset. Includes steps like handling missing values, removing duplicates, and data transformation, with checkpoints to restore the dataset at various stages.
+A data cleaning project focused on enhancing the quality of an unclean e-commerce dataset. Includes steps like handling missing values, removing duplicates, and data transformation.
 ## Dataset Description
 
-The dataset contains a list of products sold by an online store. Each row corresponds to a product and includes details about the product (e.g., color, size, price) as well as information about the seller (e.g., rating, photos, country).
+The dataset contains a list of products sold by an online store. Each row corresponds to a product and includes details about the product (color, size, price) as well as information about the seller (rating, photos, country).
 
 ## Objective
 
