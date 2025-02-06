@@ -1,0 +1,2 @@
+Ces données ont toutes été récoltées en aout 2020 et chaque ligne correspond à un produit dont le thème est l'été.
+Les prix indiqués dans ce fichier sont en Euros.
